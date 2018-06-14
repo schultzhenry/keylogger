@@ -1,0 +1,26 @@
+/* This css document provides HTML from
+converter.pyw with some basic styling.
+Feel free to alter. */
+
+body {
+  text-align: left;
+  font-family: 'Roboto Mono', sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  padding-top: 20px;
+  padding-left: 260px;
+  padding-right: 260px;
+  background-color: #FFFFFF;
+  padding-bottom: 20px;
+}
+
+span.application {
+  margin-right: -2px;
+  padding: 6px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  line-height: 40px;
+  background-color: #FFF400;
+  border-width: 0.5px;
+  border-style: solid;
+}
