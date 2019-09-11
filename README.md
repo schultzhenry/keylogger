@@ -1,3 +1,3 @@
 # Keylogger
 
-This is my keylogging project, still under development.
+This is my keylogger, still under development for a senior project in art.
