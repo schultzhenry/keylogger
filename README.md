@@ -1,3 +1,3 @@
 # Keylogger
 
-This is my keylogger, still under development for a senior project in art.
+This is my keylogger, made for a Senior Project in Art at Yale University.
